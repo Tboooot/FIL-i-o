@@ -1,0 +1,2 @@
+Hello, this is a sample text file. This content is here to demonstrate reading in chunks.
+More content here to show the offset independence.
